@@ -1,0 +1,74 @@
+[
+	{
+		"id": "Lehmer",
+		"type": "article-journal",
+		"container-title": "Annu. Comput. Lab. Harvard Univ.",
+		"page": "141–146",
+		"source": "Google Scholar",
+		"title": "Mathematical methods in large-scale computing units",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Lehmer",
+				"given": "Derrick H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951"
+				]
+			]
+		}
+	},
+	{
+		"id": "roca",
+		"type": "book",
+		"edition": "2nd edition,",
+		"event-place": "Berlin",
+		"publisher": "Springer",
+		"publisher-place": "Berlin",
+		"title": "Monte-Carlo Statistical Methods",
+		"author": [
+			{
+				"literal": "C. P. Robert"
+			},
+			{
+				"literal": "G. Casella"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "ripley",
+		"type": "book",
+		"abstract": "This guide to simulation methods with explicit recommendations of methods and algorithms covers both the technical aspects of the subject, such as the generation of random numbers, non-uniform random variates and stochastic processes, and the use of simulation.",
+		"event-place": "New York",
+		"ISBN": "978-0-471-81884-7",
+		"language": "English",
+		"note": "OCLC: 13822487",
+		"publisher": "Wiley",
+		"publisher-place": "New York",
+		"source": "Open WorldCat",
+		"title": "Stochastic simulation",
+		"author": [
+			{
+				"family": "Ripley",
+				"given": "Brian D"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	}
+]
